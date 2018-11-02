@@ -1,0 +1,15 @@
+/* Effective stylesheet produced by snapshot save */
+table#mmm { margin: 0pt auto; width: 1000px; border-collapse: collapse; border-top: 1px solid rgb(244, 165, 58); }
+table#mmm td { vertical-align: middle; }
+td.underl { padding: 4px 4px 3px; text-align: center; }
+td.underl_last { padding-top: 2px; padding-bottom: 2px; text-align: right; }
+td.underl a, td.underl_last a { font-family: "Trebuchet MS",Tahoma,sans-serif; font-size: 13.5px; color: rgb(236, 124, 8); font-weight: bold; }
+table#mmm a:hover { color: rgb(85, 87, 87) ! important; }
+td.current { padding: 4px; background: transparent url("bg_or.gif") repeat-x scroll left bottom; text-align: center; }
+td.nifty { background: transparent url("bg_nifty.gif") repeat-x scroll left bottom; height: 20px; padding-bottom: 2px; }
+td.nifty li { font-family: "Trebuchet MS",Tahoma,sans-serif; display: inline; padding: 0pt 12px 0pt 7px; }
+td.nifty a { font-family: "Trebuchet MS",Tahoma,sans-serif; font-size: 13.5px; color: rgb(255, 255, 255); }
+td.nifty a.subcur { font-size: 14px; color: rgb(85, 85, 85); }
+.nifty ul { margin-top: 2px; }
+td.underl_m a, td.underl_m_sc a, td.current a { font-family: "Trebuchet MS",Tahoma,sans-serif; color: rgb(255, 255, 255); font-weight: bold; }
+.b_go { width: 19px; height: 19px; margin: 0px 5px 2px 0px; vertical-align: bottom; }

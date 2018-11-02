@@ -1,0 +1,10 @@
+/* Effective stylesheet produced by snapshot save */
+table.colontitul { width: 1000px; margin: 15px auto 0pt; }
+table.colontitul td { vertical-align: bottom; text-align: left; }
+td.tcol_r1c1 { font-size: 11px; line-height: 1.2; color: rgb(236, 124, 8); border-bottom: 1px solid rgb(241, 150, 33); border-top: 1px solid rgb(241, 150, 33); padding: 3px 0px 4px 10px; }
+.tcol_r1c1 a { color: rgb(236, 124, 8); font-size: 11px; text-decoration: none; }
+.tcol_r1c1 a:hover { text-decoration: underline; }
+td.tcol_r2c1 { width: 761px; line-height: 1.5; color: rgb(56, 135, 224); padding: 10px 0px 10px 10px; }
+td.tcol_r2c1 a { color: rgb(56, 135, 224); }
+td.tcol_r2c1 a:hover { color: rgb(236, 124, 8); text-decoration: underline; }
+td.tcol_r2c2 { width: 239px; padding: 10px 0px 10px 10px; }
